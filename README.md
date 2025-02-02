@@ -86,10 +86,5 @@ I’m currently working on backend applications across various domains such as l
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via email at [karimelkady@example.com](mailto:karimelkady@example.com) or connect with me on LinkedIn!
+Feel free to reach out via email at [karimelkady@example.com](mailto:karim.elkady.kmk@gmail.com) or connect with me on LinkedIn!
 
----
-
-<div align="center">
-  <b>Made with ❤️ by Karim El Kady</b>
-</div>
