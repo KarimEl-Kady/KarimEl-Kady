@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/54458080?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/54458080?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #007bff;"/>
 </div>
 
 👋 Hi there! I'm **Karim El Kady**, a passionate backend developer with expertise in building scalable and efficient applications across diverse domains like **learning, medical, e-commerce, logistics, and HR systems**.  
@@ -27,7 +27,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,php,mysql,laravel,docker,arduino,photoshop,postman,heroku,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,php,mysql,laravel,docker,arduino,photoshop,postman,heroku,github" alt="Tech Stack" style="border: 2px solid #007bff; border-radius: 10px; padding: 10px;"/>
 </div>
 
 ---
@@ -35,11 +35,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimEl-Kady&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimEl-Kady&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimEl-Kady&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimEl-Kady&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border: 2px solid #007bff; border-radius: 10px;"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimEl-Kady&theme=radical&hide_border=true" alt="Streak Stats" style="border: 2px solid #007bff; border-radius: 10px;"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimEl-Kady&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="border: 2px solid #007bff; border-radius: 10px;"/>
 </div>
 
 ---
@@ -53,14 +53,6 @@
       <li>Backend: PHP, Laravel</li>
       <li>Database: MySQL</li>
       <li>Features: User authentication, course management, and progress tracking.</li>
-    </ul>
-  </details>
-  <details>
-    <summary><b>Medical Records App</b></summary>
-    <ul>
-      <li>Backend: Node.js, Express</li>
-      <li>Database: MongoDB</li>
-      <li>Features: Patient records management, doctor dashboard, and appointment scheduling.</li>
     </ul>
   </details>
   <details>
@@ -78,10 +70,13 @@
 ## 🚀 Skills Progress
 
 <div align="center">
-  <img src="https://progress-bar.dev/75/?title=PHP&width=200" alt="PHP Progress" />
-  <img src="https://progress-bar.dev/85/?title=Laravel&width=200" alt="Laravel Progress" />
-  <img src="https://progress-bar.dev/60/?title=MySQL&width=200" alt="MySQL Progress" />
-  <img src="https://progress-bar.dev/50/?title=C&width=200" alt="C Progress" />
+  <img src="https://progress-bar.dev/75/?title=PHP&width=200&color=007bff" alt="PHP Progress" style="border: 2px solid #007bff; border-radius: 10px; padding: 5px;"/>
+  <br/><br/>
+  <img src="https://progress-bar.dev/85/?title=Laravel&width=200&color=007bff" alt="Laravel Progress" style="border: 2px solid #007bff; border-radius: 10px; padding: 5px;"/>
+  <br/><br/>
+  <img src="https://progress-bar.dev/60/?title=MySQL&width=200&color=007bff" alt="MySQL Progress" style="border: 2px solid #007bff; border-radius: 10px; padding: 5px;"/>
+  <br/><br/>
+  <img src="https://progress-bar.dev/50/?title=C&width=200&color=007bff" alt="C Progress" style="border: 2px solid #007bff; border-radius: 10px; padding: 5px;"/>
 </div>
 
 ---
@@ -89,7 +84,7 @@
 ## 🎉 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/KarimEl-Kady?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCairo" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarimEl-Kady&theme=radical&hide_border=true" alt="GitHub Metrics" style="border: 2px solid #007bff; border-radius: 10px;"/>
 </div>
 
 ---
