@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://github.com/KarimEl-Kady/KarimEl-Kady/blob/main/profile-pic.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/54458080?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
 </div>
 
 I’m currently working on backend applications across various domains such as learning, medical, e-commerce, logistics, and HR systems.  
