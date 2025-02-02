@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://github.com/KarimEl-Kady/KarimEl-Kady/blob/main/profile-pic.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/54458080?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #007bff;"/>
 </div>
 
 I’m currently working on backend applications across various domains such as learning, medical, e-commerce, logistics, and HR systems.  
@@ -67,12 +67,11 @@ I’m currently working on backend applications across various domains such as l
 
 ## 🚀 Skills Progress
 
-<!-- Use a custom API or GitHub Actions to track skill progress -->
 <div align="center">
-  <img src="https://progress-bar.dev/75/?title=PHP" />
-  <img src="https://progress-bar.dev/85/?title=Laravel" />
-  <img src="https://progress-bar.dev/60/?title=MySQL" />
-  <img src="https://progress-bar.dev/50/?title=C" />
+  <img src="https://img.shields.io/badge/PHP-75%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Laravel-85%25-success" />
+  <img src="https://img.shields.io/badge/MySQL-60%25-yellow" />
+  <img src="https://img.shields.io/badge/C-50%25-orange" />
 </div>
 
 ---
