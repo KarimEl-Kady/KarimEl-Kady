@@ -1,15 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on different backend apps in learning, medical, e-commerce, logistics and HR systems.<br>🌱 I’m currently learning Network and it tools<br>💬 Ask me about PHP, Laravel, Mysql, Html, CSS, C and Arduino cc<br>
+# 💫 About Me
 
+<div align="center">
+  <img src="https://github.com/KarimEl-Kady/KarimEl-Kady/blob/main/profile-pic.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+</div>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Gek) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#7579) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KariimElKady) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karimel_kady) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karimel-kady) 
+I’m currently working on backend applications across various domains such as learning, medical, e-commerce, logistics, and HR systems.  
+🌱 I’m currently exploring networking and its tools.  
+💬 Ask me about PHP, Laravel, MySQL, HTML, CSS, C, and Arduino.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KarimEl-Kady&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KarimEl-Kady&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimEl-Kady&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 🌐 Socials
 
+<div align="center">
+  <a href="https://behance.net/Gek"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"></a>
+  <a href="https://discord.gg/#7579"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+  <a href="https://facebook.com/KariimElKady"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://instagram.com/karimel_kady"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/karimel-kady"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,php,mysql,laravel,docker,arduino,photoshop,postman,heroku,github" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimEl-Kady&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimEl-Kady&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimEl-Kady&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🔥 Recent Projects
+
+<!-- Dynamically fetch recent projects using GitHub Actions or an API -->
+<div align="center">
+  <details>
+    <summary>Project 1: Learning Management System</summary>
+    <ul>
+      <li>Backend: PHP, Laravel</li>
+      <li>Database: MySQL</li>
+      <li>Features: User authentication, course management</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Project 2: Medical Records App</summary>
+    <ul>
+      <li>Backend: Node.js, Express</li>
+      <li>Database: MongoDB</li>
+      <li>Features: Patient records, doctor dashboard</li>
+    </ul>
+  </details>
+</div>
+
+---
+
+## 🚀 Skills Progress
+
+<!-- Use a custom API or GitHub Actions to track skill progress -->
+<div align="center">
+  <img src="https://progress-bar.dev/75/?title=PHP" />
+  <img src="https://progress-bar.dev/85/?title=Laravel" />
+  <img src="https://progress-bar.dev/60/?title=MySQL" />
+  <img src="https://progress-bar.dev/50/?title=C" />
+</div>
+
+---
+
+## 🎉 Fun Facts
+
+- Total Contributions: ![Contributions](https://img.shields.io/github/contributors/KarimEl-Kady/github-readme-stats)
+- Followers: ![Followers](https://img.shields.io/github/followers/KarimEl-Kady?style=social)
+- Stars: ![Stars](https://img.shields.io/github/stars/KarimEl-Kady?style=social)
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to reach out via email at [karimelkady@example.com](mailto:karimelkady@example.com) or connect with me on LinkedIn!
+
+---
+
+<div align="center">
+  <b>Made with ❤️ by Karim El Kady</b>
+</div>
