@@ -1,9 +1,5 @@
 # 💫 About Me
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/54458080?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #007bff;"/>
-</div>
-
 I’m currently working on backend applications across various domains such as learning, medical, e-commerce, logistics, and HR systems.  
 🌱 I’m currently exploring networking and its tools.  
 💬 Ask me about PHP, Laravel, MySQL, HTML, CSS, C, and Arduino.  
